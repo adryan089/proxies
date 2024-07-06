@@ -1,5 +1,5 @@
 ### Free Proxy From Lightningproxies
 Country : Germany
-Type : HTTP & SOCS5
+Port : HTTP & SOCKS5
 
 Thanks!
